@@ -1,0 +1,6 @@
+@ElderEaseAPI_HostAddress = http://localhost:5272
+
+GET {{ElderEaseAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
