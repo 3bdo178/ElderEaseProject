@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yassi\\source\\repos\\ElderEaseAPI\\ElderEaseAPI\\ElderEaseAPI.csproj": {}
+    "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\ElderEaseAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yassi\\source\\repos\\ElderEaseAPI\\ElderEaseAPI\\ElderEaseAPI.csproj": {
+    "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\ElderEaseAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yassi\\source\\repos\\ElderEaseAPI\\ElderEaseAPI\\ElderEaseAPI.csproj",
+        "projectUniqueName": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\ElderEaseAPI.csproj",
         "projectName": "ElderEaseAPI",
-        "projectPath": "C:\\Users\\yassi\\source\\repos\\ElderEaseAPI\\ElderEaseAPI\\ElderEaseAPI.csproj",
+        "projectPath": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\ElderEaseAPI.csproj",
         "packagesPath": "C:\\Users\\yassi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yassi\\source\\repos\\ElderEaseAPI\\ElderEaseAPI\\obj\\",
+        "outputPath": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
