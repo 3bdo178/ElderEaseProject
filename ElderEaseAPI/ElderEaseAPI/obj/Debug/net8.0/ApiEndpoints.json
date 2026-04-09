@@ -16,6 +16,32 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "ElderEaseAPI.Controllers.CaregiverAuthController",
+    "Method": "Register",
+    "RelativePath": "api/CaregiverAuth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ElderEaseAPI.DTOs.CaregiverRegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ElderEaseAPI.Models.CaregiverRegisterResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "ElderEaseAPI.Controllers.CaregiversController",
     "Method": "GetSeniorsForCaregiver",
     "RelativePath": "api/Caregivers/{caregiverId}/seniors",
@@ -588,6 +614,32 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElderEaseAPI.Controllers.SeniorAuthController",
+    "Method": "Register",
+    "RelativePath": "api/SeniorAuth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ElderEaseAPI.DTOs.SeniorRegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ElderEaseAPI.Models.SeniorRegisterResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "ElderEaseAPI.Controllers.SeniorsController",

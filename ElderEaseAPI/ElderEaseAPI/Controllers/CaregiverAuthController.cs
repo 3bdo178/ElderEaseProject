@@ -34,5 +34,37 @@ namespace ElderEaseAPI.Controllers
                 Email = caregiver.Email
             });
         }
+        [HttpPost("register")]
+        public async Task<ActionResult<CaregiverRegisterResponseDto>> Register(CaregiverRegisterDto dto)
+        {
+            var existingCaregiver = await _context.Caregivers
+                .FirstOrDefaultAsync(c => c.Email == dto.Email);
+
+            if (existingCaregiver != null)
+            {
+                return BadRequest("This email is already registered.");
+            }
+
+            var caregiver = new Caregiver
+            {
+                Name = dto.Name,
+                Email = dto.Email,
+                Password = dto.Password, // simple for now as we agreed
+                Phone = dto.Phone
+            };
+
+            _context.Caregivers.Add(caregiver);
+            await _context.SaveChangesAsync();
+
+            var response = new CaregiverRegisterResponseDto
+            {
+                CaregiverId = caregiver.Id,
+                Name = caregiver.Name,
+                Email = caregiver.Email,
+                Message = "Caregiver registered successfully"
+            };
+
+            return Ok(response);
+        }
     }
 }

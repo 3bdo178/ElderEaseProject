@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|c:\\users\\yassi\\videos\\eldereaseproject\\eldereaseapi\\eldereaseapi\\controllers\\caregiverauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|solutionrelative:controllers\\caregiverauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|c:\\users\\yassi\\videos\\eldereaseproject\\eldereaseapi\\eldereaseapi\\controllers\\seniorauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|solutionrelative:controllers\\seniorauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|c:\\users\\yassi\\videos\\eldereaseproject\\eldereaseapi\\eldereaseapi\\models\\seniorregisterresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|solutionrelative:models\\seniorregisterresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|c:\\users\\yassi\\videos\\eldereaseproject\\eldereaseapi\\eldereaseapi\\models\\caregiverregisterresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|solutionrelative:models\\caregiverregisterresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|c:\\users\\yassi\\videos\\eldereaseproject\\eldereaseapi\\eldereaseapi\\dtos\\seniorregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|solutionrelative:dtos\\seniorregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|c:\\users\\yassi\\videos\\eldereaseproject\\eldereaseapi\\eldereaseapi\\dtos\\caregiverregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|solutionrelative:dtos\\caregiverregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|c:\\users\\yassi\\videos\\eldereaseproject\\eldereaseapi\\eldereaseapi\\controllers\\seniorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|solutionrelative:controllers\\seniorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|c:\\users\\yassi\\videos\\eldereaseproject\\eldereaseapi\\eldereaseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|c:\\users\\yassi\\videos\\eldereaseproject\\eldereaseapi\\eldereaseapi\\controllers\\caregiverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|solutionrelative:controllers\\caregiverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|c:\\users\\yassi\\videos\\eldereaseproject\\eldereaseapi\\eldereaseapi\\eldereaseapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2E10343B-C99F-E189-D004-99C411C8AC73}|ElderEaseAPI.csproj|solutionrelative:eldereaseapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\ElderEaseAPI.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ElderEaseAPI.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeniorAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\Controllers\\SeniorAuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SeniorAuthController.cs",
+              "ToolTip": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\Controllers\\SeniorAuthController.cs*",
+              "RelativeToolTip": "Controllers\\SeniorAuthController.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:54:53.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeniorRegisterResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\Models\\SeniorRegisterResponseDto.cs",
+              "RelativeDocumentMoniker": "Models\\SeniorRegisterResponseDto.cs",
+              "ToolTip": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\Models\\SeniorRegisterResponseDto.cs*",
+              "RelativeToolTip": "Models\\SeniorRegisterResponseDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:52:19.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CaregiverRegisterResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\Models\\CaregiverRegisterResponseDto.cs",
+              "RelativeDocumentMoniker": "Models\\CaregiverRegisterResponseDto.cs",
+              "ToolTip": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\Models\\CaregiverRegisterResponseDto.cs*",
+              "RelativeToolTip": "Models\\CaregiverRegisterResponseDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:50:25.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CaregiverAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\Controllers\\CaregiverAuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CaregiverAuthController.cs",
+              "ToolTip": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\Controllers\\CaregiverAuthController.cs*",
+              "RelativeToolTip": "Controllers\\CaregiverAuthController.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:33:56.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeniorRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\DTOs\\SeniorRegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\SeniorRegisterDto.cs",
+              "ToolTip": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\DTOs\\SeniorRegisterDto.cs*",
+              "RelativeToolTip": "DTOs\\SeniorRegisterDto.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:48:22.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CaregiverRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\DTOs\\CaregiverRegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CaregiverRegisterDto.cs",
+              "ToolTip": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\DTOs\\CaregiverRegisterDto.cs*",
+              "RelativeToolTip": "DTOs\\CaregiverRegisterDto.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:44:14.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeniorsController.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\Controllers\\SeniorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SeniorsController.cs",
+              "ToolTip": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\Controllers\\SeniorsController.cs",
+              "RelativeToolTip": "Controllers\\SeniorsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:33:37.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CaregiversController.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\Controllers\\CaregiversController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CaregiversController.cs",
+              "ToolTip": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\Controllers\\CaregiversController.cs",
+              "RelativeToolTip": "Controllers\\CaregiversController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwBYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:32:48.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:43:32.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ElderEaseAPI.http",
+              "DocumentMoniker": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\ElderEaseAPI.http",
+              "RelativeDocumentMoniker": "ElderEaseAPI.http",
+              "ToolTip": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\ElderEaseAPI.http",
+              "RelativeToolTip": "ElderEaseAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-01T09:43:31.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ElderEaseAPI.csproj.user",
+              "DocumentMoniker": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\ElderEaseAPI.csproj.user",
+              "RelativeDocumentMoniker": "ElderEaseAPI.csproj.user",
+              "ToolTip": "C:\\Users\\yassi\\Videos\\ElderEaseProject\\ElderEaseAPI\\ElderEaseAPI\\ElderEaseAPI.csproj.user",
+              "RelativeToolTip": "ElderEaseAPI.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2026-04-01T09:43:30.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

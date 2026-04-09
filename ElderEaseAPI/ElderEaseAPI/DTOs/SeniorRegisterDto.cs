@@ -9,6 +9,6 @@
         public string? Location { get; set; }
         public string? EmergencyContactName { get; set; }
         public string? EmergencyContacPhone { get; set; }
-        public DateOnly DOB { get; set; }
+        public DateOnly? DOB { get; set; }
     }
 }
